@@ -1,7 +1,6 @@
 # Responsive Webpage ![<Test>](https://img.shields.io/badge/License-MIT-blue.svg) 
 
-https://longhuynh741.github.io/UpdatedPortfolio/ <hr>
-
+https://longhuynh741.github.io/Portfolio-3/.
 
 This project was created for the intents and purposes of understanding mobile responsiveness for websites and being able to execute them. We are tasked with creating a website from scratch and making sure it can fulfill mobile responsiveness standards. In this case we are assigned to create a mobile-responsive portfolio that includes an: About Me, Contact, and Portfolio Page. Minimum requirements for completing this project include:
 
